@@ -33,5 +33,5 @@
 * all should be based on containers (Docker)
 * bash script to create a single web page instance with ready template working as POC
 
-## [TODO] Notes System
+## [TODO] Note-taking System
 I need a HTMl canvas working as a text editor. Basically, user should be able to enter any text (let's assume we have a student writing markdown file with summary of his stydy session). Application should implement text selection and have an option to shorten selected text and tranform it in a box with text. https://css-tricks.com/wp-content/uploads/2018/10/flex-wrap.svg
